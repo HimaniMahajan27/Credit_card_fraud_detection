@@ -197,31 +197,10 @@ We welcome contributions! Please feel free to submit a Pull Request.
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-## 🙋‍♀️ Contact & Support
-
-👩‍💻 Author: Himani Mahajan  
-
-📧 Email: [himanimahajan2709@gmail.com](mailto:himanimahajan2709@gmail.com)  
-
-💼 LinkedIn: [Himani Mahajan](https://www.linkedin.com/in/himani-mahajan-25)  
-
-🐙 GitHub: [@HimaniMahajan27](https://github.com/HimaniMahajan27)
-
----
 
 <div align="center">
 
 ### 🌟 If you found this project helpful, please give it a star! 🌟
-
-[![GitHub stars](https://img.shields.io/github/stars/HimaniMahajan27/Credit_card_fraud_detection?style=social)](https://github.com/HimaniMahajan27/Credit_card_fraud_detection/stargazers)
-
-[![GitHub forks](https://img.shields.io/github/forks/HimaniMahajan27/Credit_card_fraud_detection?style=social)](https://github.com/HimaniMahajan27/Credit_card_fraud_detection/network/members)
-
 **⚡ Built with ❤️ for the ML community**
 
 </div>
