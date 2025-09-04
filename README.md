@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💳 Credit Card Fraud Detection
 
 This project aims to build an effective machine learning pipeline to detect fraudulent credit card transactions. Using real-world anonymized transaction data, we apply preprocessing, class balancing via SMOTE, and classification algorithms (Logistic Regression and XGBoost) to identify fraudulent behavior accurately, especially in the presence of extreme class imbalance.
@@ -72,3 +73,6 @@ pip install -r requirements.txt
 
 # 4. Launch the notebook
 jupyter notebook Credit_Card_Fraud_Detection.ipynb
+=======
+# Credit_card_fraud_detection
+>>>>>>> 192d86c857d024091f5d5311a86ec3c2b5a1cec4
